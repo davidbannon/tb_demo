@@ -9,7 +9,7 @@ This project is in its very early stage but maybe it will look something like th
 
 **Background**
 --------
-(tomboy-ng)[https://github.com/tomboy-notes/tomboy-ng] is a complete rewrite of the original Tomboy Notes. Both have a sync capability, tomboy-ng currently only syncs at a file level but Tomboy could talk to various network servers. I have been reluctant to duplicate Tomboy's network model because I have some reservations about how it works, allowing some errors to happen. Further the Tomboy network sync relied on OAuth1.
+tomboy-ng, https://github.com/tomboy-notes/tomboy-ng is a complete rewrite of the original Tomboy Notes. Both have a sync capability, tomboy-ng currently only syncs at a file level but Tomboy could talk to various network servers. I have been reluctant to duplicate Tomboy's network model because I have some reservations about how it works, allowing some errors to happen. Further the Tomboy network sync relied on OAuth1.
 
 
 
