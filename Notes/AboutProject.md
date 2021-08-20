@@ -45,8 +45,8 @@ I still consider that the main use of your notes will be using tomboy-ng on a Wi
 
 
 
-Feedback
-
+**Feedback**
+--------
 As mentioned, this project is very early on. If you would like to comment, make suggestions, offer advice, please do so via the tomboy-ng issues facility. https://github.com/tomboy-notes/tomboy-ng/issues
 
 
